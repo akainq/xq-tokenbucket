@@ -1,0 +1,3 @@
+a bucket of three: [true, true, true, false] | 100 ms later: true | long after, three: true a fourth: false
+half a token: true | two below zero, 200 ms later: false 300 ms later: true
+emptied, full again 300 ms later: true 200 ms later: false

@@ -1,0 +1,7 @@
+[package]
+name = "tokenbucket"
+version = "0.1.0"
+xq = "0.10"
+description = "Token buckets: limits of a rate with bursts, as values"
+repository = "https://github.com/akainq/xq-tokenbucket"
+license = "MIT OR Apache-2.0"
